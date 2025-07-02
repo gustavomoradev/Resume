@@ -77,8 +77,7 @@ Oficialmente Ingeniero de Sistemas Informaticas desde 2012, especializado en la 
 
 ## 📜 Certificaciones
 #### Resumen:
-- Técnicas: Desarrollo de aplicaciones nativas Android, AWS Practitioner, entre otras.
-- [Certificaciones y cursos]()
+- [Certificaciones y cursos](https://github.com/gustavomoradev/Resume/blob/main/CERT.md)
 - [Ordenadas por año](https://github.com/gustavomoradev/Resume/tree/main/docs/cert)
 
 ## 🌱 Actualmente aprendiendo
