@@ -78,8 +78,7 @@ Oficialmente Ingeniero de Sistemas Informaticas desde 2012, especializado en la 
 ## 📜 Certificaciones
 #### Resumen:
 - Técnicas: Desarrollo de aplicaciones nativas Android, AWS Practitioner, entre otras.
-- Varias: ITIL, Scrum, COBIT, entre otras.
-- habilidades blandas: liderazgo, cultura empresarial entre otras
+- [Certificaciones y cursos]()
 - [Ordenadas por año](https://github.com/gustavomoradev/Resume/tree/main/docs/cert)
 
 ## 🌱 Actualmente aprendiendo
@@ -97,3 +96,13 @@ Oficialmente Ingeniero de Sistemas Informaticas desde 2012, especializado en la 
 ## ☺️ Mis redes
 - [Instagram ](https://www.instagram.com/gtmora200/)
 - [Facebook](https://www.facebook.com/MoraChavarriaGustavo)
+
+
+
+
+
+
+</br></br>
+</br></br>
+</br></br>
+##### Actualizado Julio, 2025.
