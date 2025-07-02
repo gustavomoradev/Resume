@@ -70,9 +70,9 @@ Oficialmente Ingeniero de Sistemas Informaticas desde 2012, especializado en la 
 
 
 ## 📚 Formación
-- Bachillerato Informática Empresarial Universidad de Costa Rica.
+- Bachillerato Informática Empresarial, Universidad de Costa Rica.
 2008-2012.
-- Universidad Estatal a Distacia de Costa Rica.
+- Licenciatura Ingeniería Informática y Administración de Proyectos, Universidad Estatal a Distacia de Costa Rica.
 2023-Actualmente.
 
 ## 📜 Certificaciones
@@ -82,8 +82,18 @@ Oficialmente Ingeniero de Sistemas Informaticas desde 2012, especializado en la 
 - habilidades blandas: liderazgo, cultura empresarial entre otras
 - [Ordenadas por año](https://github.com/gustavomoradev/Resume/tree/main/docs/cert)
 
+## 🌱 Actualmente aprendiendo
+- Arquitectura serverless avanzada en AWS.
+- Backend Python y NodeJS.
+- Optimización de rendimiento en aplicaciones React.
+- Finalizando TFG - Licenciatura Ingeniería Informática y Administración de Proyectos
+
 
 ## 📫 ¿Hablamos?
 
 - Email: gtmora200@gmail.com
 - LinkedIn: [linkedin.com/in/gtmora200](https://www.linkedin.com/in/gtmora200)
+
+## ☺️ Mis redes
+- [Instagram ](https://www.instagram.com/gtmora200/)
+- [Facebook](https://www.facebook.com/MoraChavarriaGustavo)
